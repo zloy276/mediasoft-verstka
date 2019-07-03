@@ -1,0 +1,12 @@
+h1:hover{
+	color: red;
+}
+h2:hover{
+	background: blue;
+}
+h3{
+	text-align: center;
+}
+h4:hover{
+	font: bold italic 110% serif;
+}
