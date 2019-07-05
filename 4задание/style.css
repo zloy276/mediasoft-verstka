@@ -1,0 +1,56 @@
+body{
+	background:#04111a;
+}
+.block1{
+	padding: 20px;
+	border-radius: 10px;
+	width: 200px;
+	margin: 0 auto; 
+	text-align: center;      
+    border-width: 1px;
+    border-color: white;
+    box-shadow: 0 0 1px #1997bd, 0 0 2px #1997bd, 0 0 6px #1997bd, 0 0 12px #1997bd, inset 0 0 1px #1997bd, inset 0 0 2px #1997bd, inset 0 0 6px #1997bd, inset 0 0 12px #1997bd;
+    
+    }
+.mail{
+	height: 30px;
+	padding-left: 20px;
+ 	color: #a259aa;
+	background-color: transparent;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 5px;
+    box-shadow: 0 0 1px #e9c8e3, 0 0 2px #e9c8e3, 0 0 6px #e9c8e3, 0 0 12px #e9c8e3, inset 0 0 1px #e9c8e3, inset 0 0 2px #e9c8e3, inset 0 0 6px #e9c8e3, inset 0 0 12px #e9c8e3;
+}
+.password{
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	background-color: transparent;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 5px;
+	box-shadow: 0 0 1px #e9c8e3, 0 0 2px #e9c8e3, 0 0 6px #e9c8e3, 0 0 12px #e9c8e3, inset 0 0 1px #e9c8e3, inset 0 0 2px #e9c8e3, inset 0 0 6px #e9c8e3, inset 0 0 12px #e9c8e3;
+}
+.button{
+	height: 30px;
+	color: #ec2e86;
+	margin: 10px;
+	background-color: transparent;
+	border: 3px white;
+	box-shadow: 0 0 1px #e1004a, 0 0 2px #e1004a, 0 0 6px #e1004a, 0 0 12px #e1004a, inset 0 0 1px #e1004a, inset 0 0 2px #e1004a, inset 0 0 6px #e1004a, inset 0 0 12px #e1004a;
+	border-width: 1px;
+	border-color: #ff75bf;
+	border-radius: 5px;
+	width: 180px;
+	margin-bottom: 20px;
+
+} 
+.block2{
+
+}
+::-webkit-input-placeholder {color:pink;}
+::-moz-placeholder          {color:pink;}/* Firefox 19+ */
+:-moz-placeholder           {color:pink;}/* Firefox 18- */
+:-ms-input-placeholder      {color:pink;}
